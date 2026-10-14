@@ -1,0 +1,13 @@
+langchain>=1.0
+langchain-core
+langchain-community
+langchain-ollama
+langchain-chroma
+langchain-text-splitters
+chromadb
+pypdf
+yfinance
+gradio
+# bonus (MCP)
+mcp
+langchain-mcp-adapters
